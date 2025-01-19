@@ -1,4 +1,5 @@
 // Task 1: Create class A with a method named meth
+package com.driver;
 class A {
     public String meth() {
         return "Invoking method from class A";
